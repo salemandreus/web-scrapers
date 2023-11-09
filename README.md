@@ -3,7 +3,7 @@
 Minimalistic scrapers that perform a very basic scraping function.
 
 Utilizes Python 3.12.
-Please see the below reprequisites depending which modules you are utilizing.
+Please see the below prerequisites depending which modules you are utilizing.
 
 ## Simple Text Scraper
 #### Requires:
